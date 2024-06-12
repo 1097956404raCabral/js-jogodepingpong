@@ -1,1 +1,1 @@
-# js-jogodepingpong
+# js-lousamágica
